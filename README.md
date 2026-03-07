@@ -1,5 +1,4 @@
 <!-- Rights Reserved, Unlicensed -->
-
 # Mental Health on Chain 🧠⛓️
 
 **A series of smart contracts delivering psychological frameworks via blockchain — built for the digital-native mind**
@@ -45,15 +44,28 @@ Every contract uses the same entry point:
 
 1. **Install MetaMask** — [metamask.io](https://metamask.io)
 2. **Switch to Sepolia testnet**
-3. **Get free test ETH** — [sepoliafaucet.com](https://sepoliafaucet.com)
+3. **Get free test ETH** — [PoW Faucet](https://sepolia-faucet.pk910.de/) or [Chainlink Faucet](https://faucets.chain.link/sepolia)
 4. **Open the contract folder above** and follow the README
+5. **Interact with the smart contract** — Your on-chain activity becomes part of the case study
 
 No coding required. You only need a browser and a wallet.
 
 ---
 
-## Series Structure
+## Case Study: Real Participant Data
 
+Your on-chain interactions are tracked as part of the **mental-health-on-chain case study**:
+
+- **Your wallet address:** Permanently recorded on Sepolia
+- **Your interactions:** Logged and monitored via clawdbot campaign
+- **Your data:** Completely anonymous, no personal health information collected
+- **Your ownership:** You control your data via your private key
+
+See [case-studies/clawdbot-campaign/](./case-studies/clawdbot-campaign/) for campaign details.
+
+---
+
+## Series Structure
 ```
 mental-health-on-chain/
 ├── alchemist-forge/          # Entry 01 — Shadow Integration
@@ -61,8 +73,9 @@ mental-health-on-chain/
 ├── grief-ledger/             # Entry 03 — Coming Soon
 ├── witness-chain/            # Entry 04 — Coming Soon
 ├── inner-child-vault/        # Entry 05 — Coming Soon
-├── case-studies/             # Marketing + distribution case studies
-│   └── clawdbot-campaign/    # AI-driven outreach campaign (coming soon)
+├── case-studies/             # Real-world applications & campaigns
+│   ├── clawdbot-campaign/    # Autonomous marketing + participant tracking
+│   └── README.md
 └── README.md
 ```
 
@@ -70,7 +83,13 @@ mental-health-on-chain/
 
 ## Skills Demonstrated
 
-`Solidity` `EVM` `Smart Contract Design` `Behavioral UX` `Sepolia` `Ethereum` `Event-Driven Architecture` `On-Chain State Management` `Series Architecture` `Product Strategy`
+`Solidity` `EVM` `Smart Contract Design` `Behavioral UX` `Sepolia` `Ethereum` `Event-Driven Architecture` `On-Chain State Management` `Series Architecture` `Product Strategy` `Web3 Marketing` `Decentralized Identity`
+
+---
+
+## Legal Notice
+
+**Educational use only.** See [DISCLAIMER.md](./case-studies/clawdbot-campaign/DISCLAIMER.md) in case-studies folder.
 
 ---
 

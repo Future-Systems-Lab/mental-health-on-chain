@@ -38,17 +38,58 @@ Each contract in this series:
 
 ---
 
-## How to Participate
+## How to Participate: Step-by-Step
 
-Every contract uses the same entry point:
+### Step 1: Install MetaMask
 
-1. **Install MetaMask** — [metamask.io](https://metamask.io)
-2. **Switch to Sepolia testnet**
-3. **Get free test ETH** — [PoW Faucet](https://sepolia-faucet.pk910.de/) or [Chainlink Faucet](https://faucets.chain.link/sepolia)
-4. **Open the contract folder above** and follow the README
-5. **Interact with the smart contract** — Your on-chain activity becomes part of the case study
+Go to [metamask.io](https://metamask.io) and install the browser extension or mobile app. Create a new wallet or import an existing one.
 
-No coding required. You only need a browser and a wallet.
+### Step 2: Switch to Sepolia Testnet
+
+Open MetaMask and click the network dropdown (top left). Scroll down and select **Sepolia**. You're now on the Ethereum Sepolia testnet.
+
+### Step 3: Get Free Test ETH
+
+You need testnet ETH to pay transaction fees (costs nothing, uses free testnet funds).
+
+**Option A: PoW Faucet (Recommended)**
+1. Go to https://sepolia-faucet.pk910.de/
+2. Paste your wallet address (click "Receive" in MetaMask to copy it)
+3. Click "Start Mining"
+4. Let it mine for 5-10 minutes until you reach 0.05+ SepETH
+5. Click "Claim Rewards"
+6. Wait 1-2 minutes for the ETH to appear in MetaMask
+
+**Option B: Chainlink Faucet**
+1. Go to https://faucets.chain.link/sepolia
+2. Click "Connect Wallet" and connect MetaMask
+3. Request 0.5 testnet ETH
+
+### Step 4: Open the AlchemistForge Contract
+
+Go to the [AlchemistForge folder](./alchemist-forge/) in this repo and follow the README for detailed psychological background.
+
+Contract address (Sepolia): `0xE092336F8f5082e57CcBb341A110C20ad186A324`
+
+### Step 5: Interact with the Smart Contract
+
+1. Go to https://testnet.routescan.io/address/0xE092336F8f5082e57CcBb341A110C20ad186A324
+2. Click the **"Contract"** tab
+3. Click the **"Write Contract"** button
+4. Click **"Connect Wallet"** and connect your MetaMask
+5. Find the **"alchemize"** function
+6. In the "_pain (string)" field, type your **shadow aspect** — something you're integrating
+   - Examples: "My fear of failure", "My need for control", "My hidden anger"
+7. Click **"Write"**
+8. MetaMask will prompt you to sign the transaction
+9. Click **"Confirm"** in MetaMask
+10. Wait 30 seconds for the transaction to confirm on Sepolia
+
+Your shadow integration is now **permanently recorded on the blockchain** under your wallet address.
+
+### Step 6: You're Part of the Case Study
+
+Your on-chain interaction has been logged by the clawdbot campaign and is part of the **mental-health-on-chain case study**. Your wallet address is tracked (anonymous), and your engagement metrics are publicly available.
 
 ---
 
@@ -61,7 +102,7 @@ Your on-chain interactions are tracked as part of the **mental-health-on-chain c
 - **Your data:** Completely anonymous, no personal health information collected
 - **Your ownership:** You control your data via your private key
 
-See [case-studies/clawdbot-campaign/](./case-studies/clawdbot-campaign/) for campaign details.
+See [case-studies/clawdbot-campaign/](./case-studies/clawdbot-campaign/) for campaign architecture and real-time metrics.
 
 ---
 
@@ -83,13 +124,13 @@ mental-health-on-chain/
 
 ## Skills Demonstrated
 
-`Solidity` `EVM` `Smart Contract Design` `Behavioral UX` `Sepolia` `Ethereum` `Event-Driven Architecture` `On-Chain State Management` `Series Architecture` `Product Strategy` `Web3 Marketing` `Decentralized Identity`
+`Solidity` `EVM` `Smart Contract Design` `Behavioral UX` `Sepolia` `Ethereum` `Event-Driven Architecture` `On-Chain State Management` `Series Architecture` `Product Strategy` `Web3 Marketing` `Decentralized Identity` `Blockchain UX`
 
 ---
 
 ## Legal Notice
 
-**Educational use only.** See [DISCLAIMER.md](./case-studies/clawdbot-campaign/DISCLAIMER.md) in case-studies folder.
+**Educational use only.** This is not medical advice, therapy, or diagnosis. See [DISCLAIMER.md](./case-studies/clawdbot-campaign/DISCLAIMER.md) in case-studies folder for full legal terms.
 
 ---
 

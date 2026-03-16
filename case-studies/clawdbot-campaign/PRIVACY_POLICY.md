@@ -1,6 +1,6 @@
 # Privacy Policy - mental-health-on-chain Campaign
 
-## PHI Protection (HIPAA Compliance)
+## PHI Protection (sovereign health governance Compliance)
 
 This campaign **does not**:
 - Collect personal health information (PHI)

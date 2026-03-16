@@ -38,7 +38,7 @@ Any interest in:
 - Licensed therapist/counselor
 - Board-certified psychiatrist
 - Licensed nutritionist/dietitian
-- Medical doctor
+- Medical practitioner
 
 ## Contract Use
 

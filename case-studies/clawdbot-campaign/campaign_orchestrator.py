@@ -10,7 +10,7 @@ import time
 from datetime import datetime
 from dotenv import load_dotenv
 
-load_dotenv()
+load_dotenv("/opt/clawdbot/.env")
 
 logging.basicConfig(
     level=logging.INFO,
